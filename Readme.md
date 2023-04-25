@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Илья Груздев](https://up.htmlacademy.ru/ecmascript/20/user/1463253).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Лопатин](https://htmlacademy.ru/profile/denislopatin).
 
 ---
 
